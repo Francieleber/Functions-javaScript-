@@ -1,0 +1,2 @@
+# Functions-javaScript-
+partica1
